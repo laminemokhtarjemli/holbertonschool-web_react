@@ -1,4 +1,4 @@
-import debounce from 'lodash';
+import $ from 'lodash';
 import '../css/main.css';
 import $ from 'jquery';
 $(document).ready(() => {
